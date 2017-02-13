@@ -4,3 +4,27 @@
 // $fa-font-path: '//netdna.bootstrapcdn.com/font-awesome/4.3.0/fonts';
 // @import 'font-awesome';
 @import 'box-sizing';
+@import 'skillz';
+
+$c-darkblue: #1a2130;
+$c-white: #ececec;
+$c-lightblue: #285d7e;
+$c-black: #222429;
+
+
+
+.lightblue {
+  color: $c-lightblue;
+}
+
+.white {
+  color: $c-white;
+}
+
+.darkblue {
+  color: $c-darkblue;
+}
+
+.black {
+  color: $c-black;
+}
