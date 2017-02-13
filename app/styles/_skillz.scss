@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
+
+ul {
+  list-style: none;
+}
+
+
+header {
+  display: flex;
+  background-color: $c-darkblue;
+  color: $c-white;
+}
+
+main {
+  background-color: $c-lightblue;
+  text-align: center;
+
+
+}
+
+footer {
+  display: flex;
+  background-color: $c-black;
+
+  li {
+    justify-content: space-around;
+  }
+}
